@@ -21,6 +21,8 @@
     [super viewDidLoad];
 
     self.statisticView.textAlignment = NSTextAlignmentCenter;
+    self.statisticView.fontColor = [UIColor grayColor];
+    self.view.backgroundColor = [UIColor blackColor];
 }
 
 - (void)didReceiveMemoryWarning {

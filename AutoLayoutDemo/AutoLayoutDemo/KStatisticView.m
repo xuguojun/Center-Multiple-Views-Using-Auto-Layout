@@ -44,6 +44,10 @@
     return self;
 }
 
+- (void)layoutSubviews{
+    [super layoutSubviews];
+}
+
 - (void)addView{
     self.imageView1 = [[UIImageView alloc] initWithImage:[UIImage imageNamed:@"view_count"]];
     [self addSubview:self.imageView1];
