@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>1BD3A52F-3A38-4E9A-BA8A-738F15752ACD</string>
+	<key>IDESourceControlProjectName</key>
+	<string>AutoLayoutDemo</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>353AC0CF77D6BB62C3A07EBCA99ED154DDAC38D6</key>
+		<string>https://github.com/xuguojun/Center-Multiple-Views-Using-Auto-Layout.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>AutoLayoutDemo/AutoLayoutDemo.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>353AC0CF77D6BB62C3A07EBCA99ED154DDAC38D6</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/xuguojun/Center-Multiple-Views-Using-Auto-Layout.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>353AC0CF77D6BB62C3A07EBCA99ED154DDAC38D6</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>353AC0CF77D6BB62C3A07EBCA99ED154DDAC38D6</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Center-Multiple-Views-Using-Auto-Layout</string>
+		</dict>
+	</array>
+</dict>
+</plist>
